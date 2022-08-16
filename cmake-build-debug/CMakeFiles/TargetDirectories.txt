@@ -1,0 +1,3 @@
+C:/Users/willburton/CLionProjects/sulphuricBanking/cmake-build-debug/CMakeFiles/sulphuricBanking.dir
+C:/Users/willburton/CLionProjects/sulphuricBanking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/willburton/CLionProjects/sulphuricBanking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
